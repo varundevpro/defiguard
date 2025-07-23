@@ -11,6 +11,7 @@ import TeamSection from "../../components/team";
 import ContactSection from "../../components/contact";
 import ClientSection from "../../components/client";
 import Footer from "../../components/footer";
+import WalletUI from "../../components/wallet-ui";
 
 function Home() {
 	return (
@@ -19,6 +20,7 @@ function Home() {
 				<Header />
 				<Banner />
 			</div>
+			<WalletUI />
 			<ServicesSection />
 			<BlogSection />
 			<FeaturesSection />

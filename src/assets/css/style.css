@@ -1166,3 +1166,10 @@ textarea#comment.update_mail::placeholder {
 .margin_top90 {
     margin-top: 90px;
 }
+
+/* Wallet UI */
+
+.wallet-ui {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
